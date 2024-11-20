@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731415054 source:c:\users\wafaa\downloads\c\strings\task4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

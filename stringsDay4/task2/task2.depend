@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731412856 source:c:\users\wafaa\downloads\c\strings\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

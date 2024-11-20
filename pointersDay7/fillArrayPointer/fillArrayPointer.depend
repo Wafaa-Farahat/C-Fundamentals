@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731848565 source:c:\users\wafaa\downloads\c\pointers\fillarraypointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

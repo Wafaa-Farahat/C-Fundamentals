@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731416984 source:c:\users\wafaa\downloads\c\strings\keytypeascii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

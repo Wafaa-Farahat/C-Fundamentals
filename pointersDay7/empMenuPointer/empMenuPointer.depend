@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731850342 source:c:\users\wafaa\downloads\c\pointers\empmenupointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+

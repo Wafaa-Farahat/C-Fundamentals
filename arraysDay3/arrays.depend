@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1731331143 source:c:\users\wafaa\downloads\c\arrays\task2.c
+	<stdio.h>
+
+1731331048 source:c:\users\wafaa\downloads\c\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

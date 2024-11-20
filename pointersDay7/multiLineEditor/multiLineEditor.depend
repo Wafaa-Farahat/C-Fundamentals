@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1731851804 source:c:\users\wafaa\downloads\c\pointers\multilineeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1732053337 source:c:\users\wafaa\downloads\c\pointersday7\multilineeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+

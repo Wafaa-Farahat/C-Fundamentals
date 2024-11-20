@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730986196 source:c:\users\wafaa\downloads\c\control_statment6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

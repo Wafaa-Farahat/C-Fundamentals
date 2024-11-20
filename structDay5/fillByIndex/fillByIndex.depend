@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731497904 source:c:\users\wafaa\downloads\c\struct\fillbyindex\main.c
+	<stdio.h>
+	<windows.h>
+
